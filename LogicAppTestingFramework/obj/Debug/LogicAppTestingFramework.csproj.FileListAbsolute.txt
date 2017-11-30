@@ -1,0 +1,17 @@
+C:\Inciper\Source\Repos\Marston Finance Transformation\Integration\Shared\LogicAppUnitTestManager\LogicAppTestingFramework\bin\Debug\LogicAppTestingFramework.dll
+C:\Inciper\Source\Repos\Marston Finance Transformation\Integration\Shared\LogicAppUnitTestManager\LogicAppTestingFramework\bin\Debug\LogicAppTestingFramework.pdb
+C:\Inciper\Source\Repos\Marston Finance Transformation\Integration\Shared\LogicAppUnitTestManager\LogicAppTestingFramework\bin\Debug\Microsoft.Azure.Management.Logic.dll
+C:\Inciper\Source\Repos\Marston Finance Transformation\Integration\Shared\LogicAppUnitTestManager\LogicAppTestingFramework\bin\Debug\Microsoft.IdentityModel.Clients.ActiveDirectory.dll
+C:\Inciper\Source\Repos\Marston Finance Transformation\Integration\Shared\LogicAppUnitTestManager\LogicAppTestingFramework\bin\Debug\Microsoft.IdentityModel.Clients.ActiveDirectory.Platform.dll
+C:\Inciper\Source\Repos\Marston Finance Transformation\Integration\Shared\LogicAppUnitTestManager\LogicAppTestingFramework\bin\Debug\Microsoft.Rest.ClientRuntime.Azure.dll
+C:\Inciper\Source\Repos\Marston Finance Transformation\Integration\Shared\LogicAppUnitTestManager\LogicAppTestingFramework\bin\Debug\Microsoft.Rest.ClientRuntime.dll
+C:\Inciper\Source\Repos\Marston Finance Transformation\Integration\Shared\LogicAppUnitTestManager\LogicAppTestingFramework\bin\Debug\Newtonsoft.Json.dll
+C:\Inciper\Source\Repos\Marston Finance Transformation\Integration\Shared\LogicAppUnitTestManager\LogicAppTestingFramework\bin\Debug\Microsoft.IdentityModel.Clients.ActiveDirectory.xml
+C:\Inciper\Source\Repos\Marston Finance Transformation\Integration\Shared\LogicAppUnitTestManager\LogicAppTestingFramework\bin\Debug\Microsoft.IdentityModel.Clients.ActiveDirectory.Platform.xml
+C:\Inciper\Source\Repos\Marston Finance Transformation\Integration\Shared\LogicAppUnitTestManager\LogicAppTestingFramework\bin\Debug\Microsoft.Rest.ClientRuntime.xml
+C:\Inciper\Source\Repos\Marston Finance Transformation\Integration\Shared\LogicAppUnitTestManager\LogicAppTestingFramework\bin\Debug\Microsoft.Rest.ClientRuntime.Azure.xml
+C:\Inciper\Source\Repos\Marston Finance Transformation\Integration\Shared\LogicAppUnitTestManager\LogicAppTestingFramework\bin\Debug\Newtonsoft.Json.xml
+C:\Inciper\Source\Repos\Marston Finance Transformation\Integration\Shared\LogicAppUnitTestManager\LogicAppTestingFramework\obj\Debug\LogicAppTestingFramework.csprojResolveAssemblyReference.cache
+C:\Inciper\Source\Repos\Marston Finance Transformation\Integration\Shared\LogicAppUnitTestManager\LogicAppTestingFramework\obj\Debug\LogicAppTestingFramework.dll
+C:\Inciper\Source\Repos\Marston Finance Transformation\Integration\Shared\LogicAppUnitTestManager\LogicAppTestingFramework\obj\Debug\LogicAppTestingFramework.pdb
+C:\Inciper\Source\Repos\Marston Finance Transformation\Integration\Shared\LogicAppUnitTestManager\LogicAppTestingFramework\bin\Debug\LogicAppTestingFramework.dll.config
