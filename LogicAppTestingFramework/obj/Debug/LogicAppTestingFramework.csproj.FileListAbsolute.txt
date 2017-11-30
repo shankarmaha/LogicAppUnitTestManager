@@ -15,3 +15,20 @@ C:\Inciper\Source\Repos\Marston Finance Transformation\Integration\Shared\LogicA
 C:\Inciper\Source\Repos\Marston Finance Transformation\Integration\Shared\LogicAppUnitTestManager\LogicAppTestingFramework\obj\Debug\LogicAppTestingFramework.dll
 C:\Inciper\Source\Repos\Marston Finance Transformation\Integration\Shared\LogicAppUnitTestManager\LogicAppTestingFramework\obj\Debug\LogicAppTestingFramework.pdb
 C:\Inciper\Source\Repos\Marston Finance Transformation\Integration\Shared\LogicAppUnitTestManager\LogicAppTestingFramework\bin\Debug\LogicAppTestingFramework.dll.config
+C:\GitHubProjects\LogicAppUnitTestManager\LogicAppTestingFramework\bin\Debug\LogicAppTestingFramework.dll.config
+C:\GitHubProjects\LogicAppUnitTestManager\LogicAppTestingFramework\bin\Debug\LogicAppTestingFramework.dll
+C:\GitHubProjects\LogicAppUnitTestManager\LogicAppTestingFramework\bin\Debug\LogicAppTestingFramework.pdb
+C:\GitHubProjects\LogicAppUnitTestManager\LogicAppTestingFramework\bin\Debug\Microsoft.Azure.Management.Logic.dll
+C:\GitHubProjects\LogicAppUnitTestManager\LogicAppTestingFramework\bin\Debug\Microsoft.IdentityModel.Clients.ActiveDirectory.dll
+C:\GitHubProjects\LogicAppUnitTestManager\LogicAppTestingFramework\bin\Debug\Microsoft.IdentityModel.Clients.ActiveDirectory.Platform.dll
+C:\GitHubProjects\LogicAppUnitTestManager\LogicAppTestingFramework\bin\Debug\Microsoft.Rest.ClientRuntime.Azure.dll
+C:\GitHubProjects\LogicAppUnitTestManager\LogicAppTestingFramework\bin\Debug\Microsoft.Rest.ClientRuntime.dll
+C:\GitHubProjects\LogicAppUnitTestManager\LogicAppTestingFramework\bin\Debug\Newtonsoft.Json.dll
+C:\GitHubProjects\LogicAppUnitTestManager\LogicAppTestingFramework\bin\Debug\Microsoft.IdentityModel.Clients.ActiveDirectory.xml
+C:\GitHubProjects\LogicAppUnitTestManager\LogicAppTestingFramework\bin\Debug\Microsoft.IdentityModel.Clients.ActiveDirectory.Platform.xml
+C:\GitHubProjects\LogicAppUnitTestManager\LogicAppTestingFramework\bin\Debug\Microsoft.Rest.ClientRuntime.xml
+C:\GitHubProjects\LogicAppUnitTestManager\LogicAppTestingFramework\bin\Debug\Microsoft.Rest.ClientRuntime.Azure.xml
+C:\GitHubProjects\LogicAppUnitTestManager\LogicAppTestingFramework\bin\Debug\Newtonsoft.Json.xml
+C:\GitHubProjects\LogicAppUnitTestManager\LogicAppTestingFramework\obj\Debug\LogicAppTestingFramework.csprojResolveAssemblyReference.cache
+C:\GitHubProjects\LogicAppUnitTestManager\LogicAppTestingFramework\obj\Debug\LogicAppTestingFramework.dll
+C:\GitHubProjects\LogicAppUnitTestManager\LogicAppTestingFramework\obj\Debug\LogicAppTestingFramework.pdb

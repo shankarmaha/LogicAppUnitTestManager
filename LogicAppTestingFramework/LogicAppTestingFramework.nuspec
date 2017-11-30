@@ -2,16 +2,14 @@
 <package >
   <metadata>
     <id>LogicAppUnitTestManager.TestFramework</id>
-    <version>$version$</version>
+    <version>1.0.1</version>
     <title>$title$</title>
     <authors>nehashankar</authors>
     <owners>nehashankar</owners>
-    <licenseUrl>http://LICENSE_URL_HERE_OR_DELETE_THIS_LINE</licenseUrl>
-    <projectUrl>http://PROJECT_URL_HERE_OR_DELETE_THIS_LINE</projectUrl>
-    <iconUrl>http://ICON_URL_HERE_OR_DELETE_THIS_LINE</iconUrl>
+    <projectUrl>https://github.com/shankarmaha/LogicAppUnitTestManager</projectUrl>
     <requireLicenseAcceptance>false</requireLicenseAcceptance>
     <description>A unit testing framework for Azure logic apps</description>
-    <releaseNotes>Summary of changes made in this release of the package.</releaseNotes>
+    <releaseNotes>Initial Release</releaseNotes>
     <copyright>Copyright 2017</copyright>
     <tags>AzureLogicApps</tags>
   </metadata>
